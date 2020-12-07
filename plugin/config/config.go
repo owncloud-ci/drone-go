@@ -17,7 +17,7 @@ package config
 import (
 	"context"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/drone"
 )
 
 // V1 is version 1 of the configuration API

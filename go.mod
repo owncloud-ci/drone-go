@@ -1,4 +1,4 @@
-module github.com/drone/drone-go
+module github.com/owncloud-ci/drone-go
 
 go 1.14
 

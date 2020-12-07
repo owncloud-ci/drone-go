@@ -26,8 +26,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin/internal/aesgcm"
+	"github.com/owncloud-ci/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/plugin/internal/aesgcm"
 
 	httpsignatures "github.com/99designs/httpsignatures-go"
 )

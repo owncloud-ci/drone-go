@@ -17,8 +17,8 @@ package secret
 import (
 	"context"
 
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin/internal/client"
+	"github.com/owncloud-ci/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/plugin/internal/client"
 )
 
 // Client returns a new plugin client.
